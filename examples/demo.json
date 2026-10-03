@@ -1,0 +1,92 @@
+{
+  "as_of": "2026-10-03T20:00:00+00:00",
+  "description": "Synthetic data. No real customers, phone numbers or tokens.",
+  "leads": [
+    {
+      "id": 1001,
+      "status_id": 123,
+      "responsible_user_id": 101
+    },
+    {
+      "id": 1002,
+      "status_id": 123,
+      "responsible_user_id": 101
+    },
+    {
+      "id": 1003,
+      "status_id": 123,
+      "responsible_user_id": 102
+    },
+    {
+      "id": 1004,
+      "status_id": 142,
+      "responsible_user_id": 102
+    },
+    {
+      "id": 1005,
+      "status_id": 143,
+      "responsible_user_id": 102
+    },
+    {
+      "id": 1006,
+      "status_id": 123,
+      "responsible_user_id": 102
+    },
+    {
+      "id": 1007,
+      "status_id": 123,
+      "responsible_user_id": 101
+    }
+  ],
+  "tasks": [
+    {
+      "id": 2002,
+      "entity_id": 1002,
+      "entity_type": "leads",
+      "is_completed": false,
+      "complete_till": 1790967600
+    },
+    {
+      "id": 2003,
+      "entity_id": 1003,
+      "entity_type": "leads",
+      "is_completed": false,
+      "complete_till": 1791223200
+    },
+    {
+      "id": 2005,
+      "entity_id": 1005,
+      "entity_type": "leads",
+      "is_completed": false,
+      "complete_till": 1790967600
+    },
+    {
+      "id": 2006,
+      "entity_id": 1006,
+      "entity_type": "leads",
+      "is_completed": true,
+      "complete_till": 1790967600
+    },
+    {
+      "id": 2007,
+      "entity_id": 1007,
+      "entity_type": "leads",
+      "is_completed": false,
+      "complete_till": 1790967600
+    },
+    {
+      "id": 2008,
+      "entity_id": 1007,
+      "entity_type": "leads",
+      "is_completed": false,
+      "complete_till": 1791223200
+    },
+    {
+      "id": 2009,
+      "entity_id": 1001,
+      "entity_type": "contacts",
+      "is_completed": false,
+      "complete_till": 1791223200
+    }
+  ]
+}
