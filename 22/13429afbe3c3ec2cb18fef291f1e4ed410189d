@@ -1,0 +1,40 @@
+.env.example
+  h_e011e72f35dbdc 1-2
+.github/workflows/checks.yml
+  h_e011e72f35dbdc 1-16
+.gitignore
+  h_e011e72f35dbdc 1-7
+README.md
+  h_e011e72f35dbdc 1-88
+citycar_case/__init__.py
+  h_e011e72f35dbdc 1
+citycar_case/__main__.py
+  h_e011e72f35dbdc 1-62
+citycar_case/amo.py
+  h_e011e72f35dbdc 1-74
+citycar_case/rules.py
+  h_e011e72f35dbdc 1-25
+docs/answers.md
+  h_e011e72f35dbdc 1-82
+docs/architecture.md
+  h_e011e72f35dbdc 1-21
+docs/wb-sky-ai-case.md
+  h_e011e72f35dbdc 1-27
+examples/amo_excerpt.py
+  h_e011e72f35dbdc 1-48
+examples/demo.json
+  h_e011e72f35dbdc 1-92
+tests/test_case.py
+  h_e011e72f35dbdc 1-162
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "2213429afbe3c3ec2cb18fef291f1e4ed410189d",
+  "prompts": {},
+  "humans": {
+    "h_e011e72f35dbdc": {
+      "author": "Andrey Shevtsov <202332151+revoluxe-ai@users.noreply.github.com>"
+    }
+  }
+}
